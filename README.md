@@ -36,3 +36,6 @@ O emulador reproduz os protocolos de comunicação típicos das balanças comerc
   </a>
 </p>
 </br>
+
+## :warning: Licença
+`Emulador de Balança` is free and open-source software licensed under the [![License](https://img.shields.io/badge/license-Apache%202-blue.svg)](https://github.com/antoniojmsjr/EmuladorBalanca/blob/master/LICENSE)
