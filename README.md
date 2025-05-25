@@ -28,8 +28,6 @@ O emulador reproduz os protocolos de comunicação típicos das balanças comerc
 
 **Nota:** Este emulador de balança foi desenvolvido com base no funcionamento do **Emulador de Balança Serial** disponibilizado pelo projeto [**ACBr** (Automação Comercial Brasil)](https://www.projetoacbr.com.br/forum/topic/48756-emulador-de-balan%C3%A7a-toledo/). A ferramenta do ACBr serviu como referência para a estrutura de comunicação serial, protocolo de transmissão e simulação de resposta da balança. O objetivo foi criar uma versão adaptada de uma balança de conferência ou balança de checkout, mantendo a compatibilidade com os padrões utilizados no mercado.
 
-* Local do projeto: \ACBr\Projetos\EmuladorBalanca\Delphi
-
 </br>
 </br>
 <p align="center">
