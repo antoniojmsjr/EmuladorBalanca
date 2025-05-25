@@ -15,3 +15,16 @@ Através da utilização do [Null-modem Emulator (com0com)](https://sourceforge.
 ), o emulador estabelece uma comunicação virtual entre o sistema de ponto de venda (PDV) ou outro aplicativo e a balança simulada, **eliminando** a necessidade de hardware físico durante o desenvolvimento e homologação.
 
 O emulador reproduz os protocolos de comunicação típicos das balanças comerciais, respondendo a comandos de solicitação de peso e, opcionalmente, simulando condições como estabilidade de peso, ausência de peso ou erros de leitura. É possível configurar manualmente o peso a ser retornado, permitindo a simulação de diferentes cenários operacionais.
+
+#### Recursos:
+
+* Comunicação serial via portas virtuais (Null-modem).
+* Simulação de leitura de peso em tempo real.
+* Configuração manual do valor de peso.
+* Emulação de estados como peso instável, balança fora de serviço ou sobrecarga.
+* Compatível com os principais protocolos de balanças comerciais (pode ser adaptável conforme o modelo simulado).
+* Ferramenta essencial para desenvolvimento, testes e treinamento, sem a dependência de equipamentos físicos.
+
+**Nota:** Este emulador de balança foi desenvolvido com base no funcionamento do **Emulador de Balança Serial** disponibilizado pelo projeto **ACBr** (Automação Comercial Brasil). A ferramenta do ACBr serviu como referência para a estrutura de comunicação serial, protocolo de transmissão e simulação de resposta da balança. Nosso objetivo foi criar uma versão adaptada às necessidades específicas do nosso ambiente de testes, mantendo a compatibilidade com os padrões utilizados no mercado.
+
+* Local do projeto: \ACBr\Projetos\EmuladorBalanca\Delphi
