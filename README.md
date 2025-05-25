@@ -1,9 +1,9 @@
 ![Maintained YES](https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square&color=important)
 ![Memory Leak Verified YES](https://img.shields.io/badge/Memory%20Leak%20Verified%3F-yes-green.svg?style=flat-square&color=important)
-![Release](https://img.shields.io/github/v/release/antoniojmsjr/BuscaCEP?label=Latest%20release&style=flat-square&color=important)
-![Stars](https://img.shields.io/github/stars/antoniojmsjr/BuscaCEP.svg?style=flat-square)
-![Forks](https://img.shields.io/github/forks/antoniojmsjr/BuscaCEP.svg?style=flat-square)
-![Issues](https://img.shields.io/github/issues/antoniojmsjr/BuscaCEP.svg?style=flat-square&color=blue)</br>
+![Release](https://img.shields.io/github/v/release/antoniojmsjr/EmuladorBalanca?label=Latest%20release&style=flat-square&color=important)
+![Stars](https://img.shields.io/github/stars/antoniojmsjr/EmuladorBalanca.svg?style=flat-square)
+![Forks](https://img.shields.io/github/forks/antoniojmsjr/EmuladorBalanca.svg?style=flat-square)
+![Issues](https://img.shields.io/github/issues/antoniojmsjr/EmuladorBalanca.svg?style=flat-square&color=blue)</br>
 ![Compatibility](https://img.shields.io/badge/Compatibility-VCL,%20Firemonkey-3db36a?style=flat-square)
 ![Delphi Supported Versions](https://img.shields.io/badge/Delphi%20Supported%20Versions-Seattle%20and%20higher-3db36a?style=flat-square)
 
@@ -26,6 +26,6 @@ O emulador reproduz os protocolos de comunicação típicos das balanças comerc
 * Compatível com os principais protocolos de balanças comerciais (pode ser adaptável conforme o modelo simulado).
 * Ferramenta essencial para desenvolvimento, testes e treinamento, sem a dependência de equipamentos físicos.
 
-**Nota:** Este emulador de balança foi desenvolvido com base no funcionamento do **Emulador de Balança Serial** disponibilizado pelo projeto [**ACBr** (Automação Comercial Brasil)](https://www.projetoacbr.com.br/forum/topic/48756-emulador-de-balan%C3%A7a-toledo/). A ferramenta do ACBr serviu como referência para a estrutura de comunicação serial, protocolo de transmissão e simulação de resposta da balança. Nosso objetivo foi criar uma versão adaptada às necessidades específicas do nosso ambiente de testes, mantendo a compatibilidade com os padrões utilizados no mercado.
+**Nota:** Este emulador de balança foi desenvolvido com base no funcionamento do **Emulador de Balança Serial** disponibilizado pelo projeto [**ACBr** (Automação Comercial Brasil)](https://www.projetoacbr.com.br/forum/topic/48756-emulador-de-balan%C3%A7a-toledo/). A ferramenta do ACBr serviu como referência para a estrutura de comunicação serial, protocolo de transmissão e simulação de resposta da balança. O objetivo foi criar uma versão adaptada de uma balança de conferência ou balança de checkout, mantendo a compatibilidade com os padrões utilizados no mercado.
 
 * Local do projeto: \ACBr\Projetos\EmuladorBalanca\Delphi
