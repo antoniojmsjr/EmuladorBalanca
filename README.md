@@ -18,6 +18,7 @@ O emulador reproduz os protocolos de comunicação típicos das balanças comerc
 
 #### Recursos:
 
+* Simulação dos protocolos Filizola e Toledo.
 * Comunicação serial via portas virtuais (Null-modem).
 * Simulação de leitura de peso em tempo real.
 * Configuração manual do valor de peso.
